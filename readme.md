@@ -19,7 +19,7 @@
 
 Rakennan ja ylläpidän omia hybrid-ympäristöjä, joissa yhdistyvät paikallinen virtualisointi ja pilvipohjainen infrastruktuuri.
 
-Kyse on itsenäisestä, käytännönläheisestä tekemisestä: tavoitteena ymmärtää arkkitehtuuria, palveluiden eriyttämistä ja järkevää kokonaisrakennetta — ei esittää tuotantotason yritysinfraan vastuuhenkilöä.
+Kyse on itsenäisestä, käytännönläheisestä tekemisestä: tavoitteena ymmärtää arkkitehtuuria, palveluiden eriyttämistä ja järkevää kokonaisrakennetta.
 
 Painopiste:
 - Proxmox VE (VM & LXC)
@@ -44,6 +44,7 @@ Painopiste:
 **Verkkoratkaisut**
 - Palveluiden eriyttäminen
 - Reverse proxy -reititys
+- Overlay- / VPN verkot
 - Hallittu portti- ja liikennearkkitehtuuri
 
 **Konttipohjainen infrastruktuuri**
