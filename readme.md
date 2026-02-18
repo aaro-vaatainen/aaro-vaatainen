@@ -2,13 +2,14 @@
 
 <div align="center">
   <h1>Aaro Vaatainen</h1>
-  <p><b>Infrastructure · Hybrid Environments · Virtualization · Linux · Docker</b></p>
+  <p><b>Infrastructure · Hybrid Environments · Virtualization · Linux · Docker · Networking</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/focus-hybrid%20infrastructure-8957e5?style=for-the-badge&labelColor=1f1f1f" />
     <img src="https://img.shields.io/badge/proxmox-virtualization-8957e5?style=for-the-badge&labelColor=1f1f1f" />
     <img src="https://img.shields.io/badge/cloud-environment-8957e5?style=for-the-badge&labelColor=1f1f1f" />
     <img src="https://img.shields.io/badge/docker-compose-8957e5?style=for-the-badge&labelColor=1f1f1f" />
+    <img src="https://img.shields.io/badge/networking-architecture-8957e5?style=for-the-badge&labelColor=1f1f1f" />
   </p>
 </div>
 
@@ -16,14 +17,16 @@
 
 ## Profile
 
-I design and operate hybrid infrastructure environments combining on-prem virtualization with cloud-based resources.
+I build and maintain independent hybrid lab and cloud environments, combining on-prem virtualization with hosted infrastructure.
+
+This is personal, hands-on infrastructure work — focused on understanding architecture, service separation, and deployment structure rather than operating enterprise production systems.
 
 Primary focus:
 - Proxmox VE (VM & LXC)
 - Cloud-hosted instances
-- Structured service separation
+- Networking fundamentals and service routing
 - Containerized workloads
-- Clean network and service architecture
+- Structured service environments
 
 ---
 
@@ -40,10 +43,16 @@ Primary focus:
 - Secure remote access architecture
 - Distributed service placement
 
+**Networking**
+- Service segmentation
+- Reverse proxy routing
+- Private ↔ public service exposure design
+- Controlled port and traffic structure
+
 **Containerization**
 - Docker / Docker Compose
-- Reverse proxy architecture
 - Multi-service deployments
+- Structured stack configuration
 
 **Self-Hosted Services**
 - Lightweight web services
